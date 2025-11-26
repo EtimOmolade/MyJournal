@@ -65,7 +65,7 @@ export default function Login({ navigation }) {
                         <Ionicons 
                             // 5. Change icon based on state
                             name={showPassword ? "eye" : "eye-off"} 
-                            size={24} 
+                            size={20} 
                             // Assuming your theme has a standard text color
                             color="#999" 
                         />

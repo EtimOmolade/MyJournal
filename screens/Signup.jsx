@@ -91,7 +91,7 @@ export default function Signup({ navigation }) {
                         <Ionicons 
                             // 4. Change icon based on state
                             name={showPassword ? "eye" : "eye-off"} 
-                            size={24} 
+                            size={20} 
                             color={theme.text} // Use theme text color for icon
                         />
                     </TouchableOpacity>
