@@ -35,10 +35,9 @@ Deployment: Android & iOS via Expo Go / EAS Build
 
 ---
 ### *App Previews*
-![NewEntry](https://github.com/user-attachments/assets/415d74b8-8797-4d75-8020-68621c8fa6e9)
+![NewEntry](https://github.com/user-attachments/assets/6f307da1-41c0-4018-9ee4-12920505651e)
 
 ---
-
 ### *Developer*
 **Omolade Anthonia Etim**
 
