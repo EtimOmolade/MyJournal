@@ -13,25 +13,25 @@
 ---
 ### *Features*
 
-✍️ Create, edit, and delete journal entries
-📅 Track daily writing streaks and last entry dates
-📝 View recent entries at a glance
-💡 Get inspired with daily motivational quotes
-👤 Manage your profile and account information
-🌙 Toggle between light and dark mode
-🔒 Keep your entries private and secure
-📲 Smooth navigation with a bottom tab interface
+- ✍️ Create, edit, and delete journal entries
+- 📅 Track daily writing streaks and last entry dates
+- 📝 View recent entries at a glance
+- 💡 Get inspired with daily motivational quotes
+- 👤 Manage your profile and account information
+- 🌙 Toggle between light and dark mode
+- 🔒 Keep your entries private and secure
+- 📲 Smooth navigation with a bottom tab interface
 
 ---
 ### *Tech Stack*
 
-Frontend: React Native with Expo
-Navigation: React Navigation (Stack & Bottom Tabs)
-Backend & Database: Supabase (PostgreSQL)
-UI Components: Custom Themed Components (ThemedText, ThemedView)
-State & Auth: Context API (AuthContext, ThemeContext)
-Styling & Animations: StyleSheet + LinearGradient (Expo)
-Deployment: Android & iOS via Expo Go / EAS Build
+- Frontend: React Native with Expo
+- Navigation: React Navigation (Stack & Bottom Tabs)
+- Backend & Database: Supabase (PostgreSQL)
+- UI Components: Custom Themed Components (ThemedText, ThemedView)
+- State & Auth: Context API (AuthContext, ThemeContext)
+- Styling & Animations: StyleSheet + LinearGradient (Expo)
+- Deployment: Android & iOS via Expo Go / EAS Build
 
 ---
 ### *App Previews*
