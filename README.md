@@ -3,12 +3,12 @@
 **MyJournal** is a modern, intuitive journaling app designed to help you capture your thoughts, track your daily activities, and reflect on your personal growth. With a clean, user-friendly interface, MyJournal allows you to easily write, edit, and organize your entries, while keeping your private life secure.
 
 *It demonstrates core frontend and backend integration skills such as*:
-- Dynamic data rendering with React Native Hooks
-- Secure database operations using Supabase
-- Clean UI navigation with React Navigation (Stack & Tab)
-- Smooth user interaction with responsive touch gestures and modals
-- Theme management with a custom Dark/Light mode toggle
-- User authentication and profile management using Context API
+-  Dynamic data rendering with React Native Hooks
+-  Secure database operations using Supabase
+-  Clean UI navigation with React Navigation (Stack & Tab)
+-  Smooth user interaction with responsive touch gestures and modals
+-  Theme management with a custom Dark/Light mode toggle
+-  User authentication and profile management using Context API
 
 ---
 ### *Features*
